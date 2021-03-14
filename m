@@ -1,0 +1,1 @@
+{"name":"myada","ticker":"MYADA","description":"myada staking pool","homepage":"https://myada-pool.com","nonce":"1615703294"}
